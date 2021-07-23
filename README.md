@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **suchiv2311@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/12vvhK1_l6ygyDWR4RWe4f0vgrCSkHvzA/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1nHzAsFG9OfZH8CsMDI0cZ5QEiXqQ4Dnc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

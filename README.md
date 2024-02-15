@@ -3,17 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suyashverma2311&label=Profile%20views&color=0e75b6&style=flat" alt="suyashverma2311" /> </p>
 
-- 🔭 I’m currently working on: [Vehicle Detection System](https://github.com/SuyashVerma2311/Vehicle_Detection)
+- 🔭 I’m currently working on: [Threaddit (A Reddit Clone)](https://github.com/SuyashVerma2311/Vehicle_Detection)
 
-- 🌱 I’m currently learning: **Deep Learning & DSA**
+- 🌱 I’m currently learning: **Application Development using Various TechStack**
 
-- 👯 I’m looking to collaborate on: **_any robotics project_**
+- 👯 I’m looking to collaborate on: **_any App Dev related project_**
 
-- 🤝 I’m looking for help with: **_any ML related project_**
+- 🤝 I’m looking for help with: **_any App Dev related project_**
 
 - 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/SuyashVerma2311)
 
-- 💬 Ask me about: **ROS framework**
+- 💬 Ask me about: **Backend (Using Java)**
 
 - 📫 How to reach me: **suchiv2311@gmail.com**
 
